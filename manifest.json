@@ -1,0 +1,18 @@
+{
+  "short_name": "Service Worker",
+  "name": "Service Worker",
+  "description": "Service Worker",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/construction-worker.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
